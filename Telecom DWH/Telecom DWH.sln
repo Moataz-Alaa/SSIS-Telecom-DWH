@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37806.7 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Telecom DWH", "Telecom DWH\Telecom DWH.dtproj", "{CB9701F9-24C1-1F08-AC02-7AC64ED42C73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB9701F9-24C1-1F08-AC02-7AC64ED42C73}.Development|Default.ActiveCfg = Development
+		{CB9701F9-24C1-1F08-AC02-7AC64ED42C73}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B46E21B8-121F-4574-B305-684558683F6A}
+	EndGlobalSection
+EndGlobal
